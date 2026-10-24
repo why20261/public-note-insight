@@ -3,6 +3,10 @@ name: public-note-insight
 description: 社交媒体运营数据工具｜当需要小红书、抖音、快手、微信等平台数据，搜索小红书笔记、查看xhs笔记详情与评论、获取单篇笔记评论、获取rednote博主的作品列表时使用，可实现爆款挖掘/竞品分析/KOL筛选/趋势洞察，用数据驱动流量增长，告别盲目创作
 license: MIT
 version: "1.2.0"
+display_name: 社交媒体内容研究助手
+display_name_en: Social Media Content Research Assistant
+description_zh: 社交媒体运营数据工具｜当需要小红书、抖音、快手、微信等平台数据，搜索小红书笔记、查看xhs笔记详情与评论、获取单篇笔记评论、获取rednote博主的作品列表时使用，可实现爆款挖掘/竞品分析/KOL筛选/趋势洞察，用数据驱动流量增长，告别盲目创作
+description_en: Social Media Operations Data Tool. For retrieving data from Xiaohongshu, Douyin, Kuaishou, WeChat and other platforms, search Xiaohongshu notes, view note details & comments, extract comments from individual posts, pull creator content lists on RedNote. Capabilities include viral content mining, competitor analysis, KOL selection and trend detection. Empower traffic growth via data and avoid aimless content creation.
 category: 数据分析
 metadata:
   openclaw:
